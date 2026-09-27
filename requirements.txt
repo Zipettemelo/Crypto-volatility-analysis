@@ -1,0 +1,23 @@
+Brotli @ file:///opt/miniconda3/conda-bld/brotli-split_1762371510525/work
+certifi @ file:///Users/ec2-user/croot/certifi_1785412579589/work/certifi
+charset-normalizer @ file:///Users/ec2-user/croot/charset-normalizer_1782917470004/work
+contourpy @ file:///opt/miniconda3/conda-bld/contourpy_1763643921048/work
+cycler @ file:///Users/ec2-user/croot/cycler_1766067937020/work
+fonttools @ file:///Users/ec2-user/croot/fonttools_1781075829347/work
+idna @ file:///Users/ec2-user/croot/idna_1780561398850/work
+kiwisolver @ file:///Users/ec2-user/croot/kiwisolver_1786023893495/work
+matplotlib==3.11.2
+numpy @ file:///Users/ec2-user/croot/numpy_and_numpy_base_1780345816396/work/dist/numpy-2.4.6-cp311-cp311-macosx_12_0_arm64.whl#sha256=439d0d1dc586cceb1c20fe2d77a945fa30fb728f2ecdd92c317d8c25c49c5463
+packaging==26.3
+pandas @ file:///Users/ec2-user/croot/pandas_1790001635980/work
+pillow @ file:///Users/ec2-user/croot/pillow_1783978869313/work
+pyparsing @ file:///Users/ec2-user/croot/pyparsing_1786528346318/work
+PyQt6==6.11.0
+PyQt6_sip @ file:///Users/ec2-user/croot/pyqt-split_1775828948860/work/pyqt_sip
+PySocks @ file:///Users/ec2-user/croot/pysocks_1790021647646/work
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+requests @ file:///Users/ec2-user/croot/requests_1780348915804/work
+sip @ file:///Users/ec2-user/croot/sip_1770807537382/work
+six @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_03myqm7p6o/croot/six_1744271511946/work
+tornado @ file:///Users/ec2-user/croot/tornado_1788533485654/work
+urllib3 @ file:///Users/ec2-user/croot/urllib3_1790084005851/work
